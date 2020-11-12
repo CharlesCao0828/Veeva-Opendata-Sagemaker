@@ -11,7 +11,5 @@
  ## 数据集
  使用[Dbpedia ontology dataset](https://wiki.dbpedia.org/services-resources/dbpedia-data-set-2014#2)数据集, 关于数据集的更多信息，请查看 https://wiki.dbpedia.org/services-resources/dbpedia-data-set-2014#2
  
- ### Customise for your dataset
- In order to customise this sample, for your own dataset, perform the following steps
 
             
